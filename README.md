@@ -1,5 +1,9 @@
 # Ecommerce_django
-An Ecommerce website project made using Django, Javascript and HTML/CSS with the following features-  Login authentication, Add to Cart, Checkout order and create cart for guest user using cookies.
+An Ecommerce website project made using Django, Javascript and HTML/CSS with the following features:
+1. Login authentication
+2. Add to Cart
+3. Checkout order
+4. Create cart for guest user via cookies.
 
 Following are some of the sample images from the project:
 
