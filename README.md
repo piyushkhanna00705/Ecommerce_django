@@ -4,6 +4,7 @@ An Ecommerce website project made using Django, Javascript and HTML/CSS with the
 2. Add to Cart
 3. Checkout order
 4. Create cart for guest user via cookies.
+5. Payement Integration via PayPal
 
 Following are some of the sample images from the project:
 
