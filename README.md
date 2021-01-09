@@ -17,4 +17,8 @@ Following are some of the sample images from the project:
 
 3. Checkout page
 
-![alt text](https://github.com/piyushkhanna00705/Ecommerce_django/blob/master/demo_imgs/checkout.PNG?raw=true)
+![alt text](https://github.com/piyushkhanna00705/Ecommerce_django/blob/master/demo_imgs/checkout_paypal.PNG?raw=true)
+
+4. Paypal Payement
+
+![alt text](https://github.com/piyushkhanna00705/Ecommerce_django/blob/master/demo_imgs/paypal_window.PNG?raw=true)
